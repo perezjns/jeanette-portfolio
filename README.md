@@ -1,9 +1,4 @@
-Para que tu página en GitHub no solo sea un "alojamiento", sino que realmente atraiga a reclutadores, el README.md debe ser una carta de presentación técnica.
 
-Aquí tienes una propuesta de README.md moderno y profesional, usando un formato que los desarrolladores y reclutadores técnicos valoran mucho.
-
-Copia y pega esto en tu archivo README.md:
-Markdown
 # ¡Hola, soy Jeanette! 👋
 
 <p align="left">

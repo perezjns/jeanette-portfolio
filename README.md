@@ -35,7 +35,7 @@ Actualmente, mi foco está en la automatización y el análisis predictivo.
 
 ### 🔗 Conectemos
 *   **LinkedIn:** [Jeanette Pérez Carnota](https://www.linkedin.com/in/jeanetteperezcarnota)
-*   **Web Portafolio:** [https://tuusuario.github.io](https://perezjns.github.io)
+*   * **Web Portafolio:** [https://perezjns.github.io](https://perezjns.github.io)
 *   **Canal:** [Emociones del Alma](https://www.youtube.com/@emocionesdelalma) (Proyectos creativos y narrativos)
 
 ---

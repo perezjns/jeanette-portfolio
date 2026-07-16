@@ -37,6 +37,7 @@ Actualmente, mi foco está en la automatización y el análisis predictivo.
 - 📊 **Business Intelligence:** Dashboards interactivos para la visualización de KPIs.
 - 💻 **Desarrollo Web:** Implementación de aplicaciones con Django para la gestión comercial y de inventarios.
 
+
 ---
 
 ### 🔗 Conectemos

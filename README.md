@@ -1,20 +1,51 @@
-# Página web de trayectoria profesional
+Para que tu página en GitHub no solo sea un "alojamiento", sino que realmente atraiga a reclutadores, el README.md debe ser una carta de presentación técnica.
 
-Este proyecto es una landing page estática, original y visualmente elegante, lista para publicarse en GitHub Pages.
+Aquí tienes una propuesta de README.md moderno y profesional, usando un formato que los desarrolladores y reclutadores técnicos valoran mucho.
 
-## Estructura
+Copia y pega esto en tu archivo README.md:
+Markdown
+# ¡Hola, soy Jeanette! 👋
 
-- `index.html`: contenido de la página
-- `styles.css`: diseño, colores y responsive
-- `script.js`: pequeños efectos de interacción
+<p align="left">
+  <img src="https://img.shields.io/badge/Ingeniera_Química-Procesos_Industriales-blue" alt="Ingeniera Química">
+  <img src="https://img.shields.io/badge/Data_Scientist-Python_&_BI-teal" alt="Data Scientist">
+  <img src="https://img.shields.io/badge/MBA-Estrategia_Empresarial-orange" alt="MBA">
+</p>
 
-## Publicar en GitHub Pages
+---
 
-1. Sube esta carpeta a un repositorio de GitHub.
-2. En el repositorio, entra a Settings > Pages.
-3. Selecciona la rama `main` y la carpeta `/root`.
-4. Guarda y espera a que GitHub publique el sitio.
+### 🚀 Sobre mí
+Soy una profesional orientada a la **estrategia y los datos**. Mi trayectoria une la precisión técnica de la **Ingeniería Química** y el rigor de la gestión operativa con la potencia analítica de la **Ciencia de Datos**. 
 
-## Personalización
+Mi enfoque principal es cerrar la brecha entre la planta industrial y la toma de decisiones estratégicas, utilizando **Python, Power BI y SAP** para optimizar procesos y predecir tendencias.
 
-Puedes actualizar el texto, los datos y el enlace de LinkedIn en `index.html` para que refleje tu trayectoria real.
+---
+
+### 🛠 Tech Stack
+Aquí es donde convierto los datos en soluciones:
+
+*   **Lenguajes:** Python (Pandas, NumPy, Scikit-Learn), VBA.
+*   **Data & BI:** Power BI, SAP Business Intelligence, Modelado estadístico.
+*   **ERP & Ops:** SAP SD, Planificación de la Demanda, Gestión de Procesos.
+*   **Herramientas:** Git, VS Code, Django (Web dev), Amadeus GDS.
+
+---
+
+### 📈 Lo que estoy construyendo
+Actualmente, mi foco está en la automatización y el análisis predictivo. 
+- 🐍 **Proyectos de Python:** Creación de pipelines de datos y automatización de tareas repetitivas.
+- 📊 **Business Intelligence:** Dashboards interactivos para la visualización de KPIs.
+- 💻 **Desarrollo Web:** Implementación de aplicaciones con Django para la gestión comercial y de inventarios.
+
+---
+
+### 🔗 Conectemos
+*   **LinkedIn:** [Jeanette Pérez Carnota](https://www.linkedin.com/in/jeanetteperezcarnota)
+*   **Web Portafolio:** [https://tuusuario.github.io](https://tuusuario.github.io)
+*   **Canal:** [Emociones del Alma](https://www.youtube.com/@emocionesdelalma) (Proyectos creativos y narrativos)
+
+---
+
+> "Los datos son la materia prima del siglo XXI. Mi trabajo es refinarlos para obtener el valor que impulsa a las organizaciones."
+
+---

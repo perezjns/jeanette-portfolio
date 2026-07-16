@@ -10,9 +10,7 @@
 ---
 
 ### 🚀 Sobre mí
-Soy una profesional orientada a la **estrategia y los datos**. Mi trayectoria une la precisión técnica de la **Ingeniería Química** y el rigor de la gestión operativa con la potencia analítica de la **Ciencia de Datos**. 
-
-Mi enfoque principal es cerrar la brecha entre la planta industrial y la toma de decisiones estratégicas, utilizando **Python, Power BI y SAP** para optimizar procesos y predecir tendencias.
+Soy una profesional orientada a la **estrategia y los datos**. Mi trayectoria une la precisión técnica de la **Ingeniería Química** y el rigor de la gestión operativa con la potencia analítica de la **Ciencia de Datos**. Mi enfoque principal es cerrar la brecha entre la planta industrial y la toma de decisiones estratégicas, utilizando **Python, Power BI y SAP** para optimizar procesos y predecir tendencias.
 
 ---
 
